@@ -63,7 +63,7 @@ The goal was to create a realistic product landing page that highlights courses,
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/neuroforge-landing-page.git
+git clone https://github.com/ansu06/NeuroForge.git
 ```
 
 2. Open the project folder
